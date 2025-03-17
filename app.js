@@ -30,7 +30,7 @@ exportBtn.addEventListener("click", exportQuote);
 async function getQuote() {
   try {
     quoteElement.textContent = "Please Wait...";
-    authorElement.textContent = "loading...";
+    authorElement.classList.add("hidden");
     const res = await fetch(
       "https://api.freeapi.app/api/v1/public/quotes/quote/random"
     );
@@ -38,6 +38,7 @@ async function getQuote() {
     quote = `${data.data.content} - ${data.data.author}`;
     quoteElement.textContent = `${data.data.content} `;
     authorElement.textContent = `- ${data.data.author} `;
+    authorElement.classList.remove("hidden");
   } catch (error) {
     quoteElement.textContent = error.message;
     authorElement.textContent == "";
