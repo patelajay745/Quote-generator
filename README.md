@@ -12,9 +12,9 @@ This Application is buit using html, tailwind and vanilla JS.
 
 ## Screenshots
 
-![ScreenShot](https://i.postimg.cc/Q96hxcGR/Screenshot-2025-03-16-at-10-44-21-PM.png)
+![ScreenShot](https://i.postimg.cc/3NhR1ZLJ/Screenshot-2025-03-16-at-10-44-21-PM.png)
 
-![ScreenShot](https://i.postimg.cc/RqFvppw9/Screenshot-2025-03-16-at-10-44-45-PM.png)
+![ScreenShot](https://i.postimg.cc/44vndrdK/Screenshot-2025-03-16-at-10-44-45-PM.png)
 
 ## Deployment link
 
