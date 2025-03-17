@@ -8,7 +8,7 @@ This Application is buit using html, tailwind and vanilla JS.
 - You can get new quote bu click on "New Quote" Button.
 - You can also copy quote to clipboard.
 - You can also share quote on Twitter.
-- You can also take a screenshot of the qoute using "Export" button.
+- You can also take a screenshot of the quote using "Export" button.
 
 ## Screenshots
 
